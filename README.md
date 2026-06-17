@@ -2,7 +2,6 @@
 ============================================================
   README de perfil da Nicolle Felix
   Repositório especial: precisa se chamar  NicolleFelixx
-  (mesmo nome do usuário, com dois "x" no final)
 ============================================================
 -->
 
@@ -92,8 +91,9 @@ Nicolle Felix:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolleFelixx&layout=compact&theme=tokyonight&langs_count=8&hide_border=true" />
 </p>
 
+<!-- Sequência de contribuições (servidor estável) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolleFelixx&theme=tokyonight&hide_border=true" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=NicolleFelixx&theme=tokyonight&hide_border=true" alt="streak" />
 </p>
 
 <!-- Gráfico de atividade -->
@@ -105,11 +105,6 @@ Nicolle Felix:
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolleFelixx&theme=tokyonight" height="190em" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicolleFelixx&theme=tokyonight" height="190em" />
-</p>
-
-<!-- Troféus -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NicolleFelixx&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="trophies" />
 </p>
 
 <br/>
